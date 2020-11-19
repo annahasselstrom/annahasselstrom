@@ -6,7 +6,7 @@ I'm Anna, and I'm an anthropologist turned learning designer/CEO, turned front-e
 
 Check out my portfolio here:
 
-https://app.netlify.com/sites/annahasselstrom-portfolio
+https://annahasselstrom-portfolio.netlify.app/
 
 
 
